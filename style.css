@@ -1,0 +1,24 @@
+
+    
+p {
+  color: rgba(204, 183, 209,1);
+  font-size: 20px;
+  text-align:center;
+}
+div{background-color: beige;
+    max-width: max-content;
+    max-height: max-content;
+    border:5px solid pink;
+    padding: 50px;
+    margin:0 auto;
+    text-align:center;
+
+
+
+
+
+
+}
+
+
+  
